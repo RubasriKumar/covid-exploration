@@ -20,4 +20,7 @@ This is a project I did as a fresher,where I explored the covid dataset.
 
 Created own dataset for food app solved some basic queries using the skills like joins,rank() over partition,basic Aggregate Functions
 
-# [project 4:Web Scraping in Python]
+# [project 4:Web Scraping in Python](https://github.com/RubasriKumar/portfolio-projects/blob/main/web%20scraping.py)
+
+* collected IMDB movie rating data from a common website
+* created a excel file to store the collected data
