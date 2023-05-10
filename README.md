@@ -19,3 +19,5 @@ This is a project I did as a fresher,where I explored the covid dataset.
 # [project 3: Zomato Food App](https://github.com/RubasriKumar/portfolio-projects/blob/main/SQLzomato.sql)
 
 Created own dataset for food app solved some basic queries using the skills like joins,rank() over partition,basic Aggregate Functions
+
+# [project 4:Web Scraping in Python]
